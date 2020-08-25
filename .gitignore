@@ -1,0 +1,7 @@
+__pycache__
+env
+credentials.yml
+temp.py
+.DS_Store
+models
+__init__.py
